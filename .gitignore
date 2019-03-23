@@ -1,4 +1,6 @@
 /snapshot
 /__pycache__
 /images
-/example*
+/example
+/example_sep
+/example_voc
